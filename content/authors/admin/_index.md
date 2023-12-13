@@ -39,7 +39,6 @@ education:
     - course: B.Tech in Aerospace Engineering
       institution: Indian Institute of Space Science and Technology
       year: 2018
-    - 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
