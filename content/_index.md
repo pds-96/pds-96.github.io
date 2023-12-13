@@ -67,8 +67,8 @@ sections:
           company_url: 'https://www.vssc.gov.in/'
           company_logo: isro
           location: Thiruvananthapuram
-          date_start: '2022-07-01'
-          date_end: '2023-08-31'
+          date_start: '2022-01-07'
+          date_end: '2023-31-08'
           description: |2-
               Responsibilities include:
 
@@ -80,8 +80,8 @@ sections:
           company_url: 'https://www.vssc.gov.in/'
           company_logo: isro
           location: Thiruvananthapuram
-          date_start: '2018-08-29'
-          date_end: '2022-06-31'
+          date_start: '2018-29-08'
+          date_end: '2022-31-06'
           description: |2-
               Responsibilities include:
 
