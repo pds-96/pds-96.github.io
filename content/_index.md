@@ -81,7 +81,7 @@ sections:
           company_logo: isro
           location: Thiruvananthapuram
           date_start: '2018-08-29'
-          date_end: '2022-06-31'
+          date_end: '2022-06-30'
           description: |2-
               Responsibilities include:
 
