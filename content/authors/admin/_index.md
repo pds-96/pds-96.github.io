@@ -89,6 +89,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<img src="/assets/media/hi.gif" alt="Description of the GIF" width="300" height="200">
 
 Hey there, I'm Ayaz Ahmed, an aerospace engineer who loves tinkering with cool gadgets and software in the world of controls, robotics, and autonomous systems. I graduated with a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. For more than five years, I've been working at the Vikram Sarabhai Space Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++, and Julia to figure out how things fly in space. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
 
