@@ -47,7 +47,7 @@ skills:
       - name: Python, MATLAB, Simulink, C++, Julia
       - name: Solidworks, CATIA, AutoCAD, Fusion360
       - name: Adams, ANSYS, Fluent
-  -  name: Hands-On
+  - name: Hands-On
     items:
       - name: LabVIEW, Arduino, Raspberry Pi, Pixhawk, Microcontrollers
       - name: 3D printing, Rapid Prototyping, Machining
