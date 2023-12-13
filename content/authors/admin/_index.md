@@ -44,6 +44,7 @@ education:
 design:
   show_bar: false
 skills:
+  show_bar: false
   - name: Analysis Packages and Coding Languages
     items:
       - name: Python, MATLAB, Simulink, C++, Julia
