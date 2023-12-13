@@ -90,10 +90,38 @@ social:
 highlight_name: true
 ---
 
-<div style="display: flex; align-items: center;">
-    <img src="/uploads/hi.gif" alt="Description of the GIF" width="400" height="300" style="margin-right: 20px;">
-    <p>Look here, over 150 mobile robot agents, as we call them Jonny bots coming together, without collision constraint, to welcome you to this page</p>
+<div class="gif-container">
+    <div class="gif-wrapper">
+        <img src="/uploads/hi.gif" alt="Description of the GIF" width="300" height="200">
+    </div>
+    <p class="gif-caption">Look here, over 150 mobile robot agents, as we call them Jonny bots coming together, without collision constraint, to welcome you to this page</p>
 </div>
+
+.gif-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.gif-wrapper {
+    position: relative;
+}
+
+.gif-wrapper img {
+    display: block;
+    margin: 0 auto;
+}
+
+.gif-caption {
+    font-family: 'Arial', sans-serif; /* Replace with your preferred friendly font */
+    font-size: 14px; /* Adjust the text size as needed */
+    margin-top: 10px; /* Add space between the image and text */
+    max-width: 300px; /* Adjust the maximum width of the text */
+    text-align: center;
+}
+
+
 
 
 Hey there, I'm Ayaz Ahmed, an aerospace engineer who loves tinkering with cool gadgets and software in the world of controls, robotics, and autonomous systems. I graduated with a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. For more than five years, I've been working at the Vikram Sarabhai Space Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++, and Julia to figure out how things fly in space. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
