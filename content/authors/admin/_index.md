@@ -2,8 +2,6 @@
 # Display name
 title: Ayaz Ahmed
 
-
-
 # Full name (for SEO)
 first_name: Ayaz
 last_name: Ahmed
