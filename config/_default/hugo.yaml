@@ -62,3 +62,5 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+design:
+  show_bar: false

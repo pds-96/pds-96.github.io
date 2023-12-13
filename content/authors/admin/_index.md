@@ -41,10 +41,8 @@ education:
       year: 2018
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-design:
-  show_bar: false
+
 skills:
-  show_bar: false
   - name: Analysis Packages and Coding Languages
     items:
       - name: Python, MATLAB, Simulink, C++, Julia
