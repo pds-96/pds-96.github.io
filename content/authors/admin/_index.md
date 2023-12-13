@@ -55,7 +55,14 @@ skills:
 
   - name: Design, Analysis and Development
     items:
-      - name:
+      - name: Numerical Modeling and Simulation
+      - name: Robotics and Mechatronics
+      - name: Autonomous Control Systesm
+      - name: Experimental Aerodynamics
+  - name: Documentation
+    items:
+      - name: Microsoft Office Suite
+      - name: LaTeX
 
 
 # Social/Academic Networking
