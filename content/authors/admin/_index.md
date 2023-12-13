@@ -90,37 +90,12 @@ social:
 highlight_name: true
 ---
 
-<div class="gif-container">
-    <div class="gif-wrapper">
-        <img src="/uploads/hi.gif" alt="Description of the GIF" width="300" height="200">
+<div style="text-align: center;">
+    <div style="position: relative; display: inline-block;">
+        <img src="/uploads/hi.gif" alt="Description of the GIF" width="400" height="300" style="display: block; margin: 0 auto;">
+        <p style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-family: 'Arial', sans-serif; font-size: 14px; max-width: 300px;">Look here, over 150 mobile robot agents, as we call them Jonny bots coming together, without collision constraint, to welcome you to this page</p>
     </div>
-    <p class="gif-caption">Look here, over 150 mobile robot agents, as we call them Jonny bots coming together, without collision constraint, to welcome you to this page</p>
 </div>
-
-.gif-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-}
-
-.gif-wrapper {
-    position: relative;
-}
-
-.gif-wrapper img {
-    display: block;
-    margin: 0 auto;
-}
-
-.gif-caption {
-    font-family: 'Arial', sans-serif; /* Replace with your preferred friendly font */
-    font-size: 14px; /* Adjust the text size as needed */
-    margin-top: 10px; /* Add space between the image and text */
-    max-width: 300px; /* Adjust the maximum width of the text */
-    text-align: center;
-}
-
 
 
 
