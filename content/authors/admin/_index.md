@@ -97,14 +97,14 @@ highlight_name: true
             <!-- Add additional source elements for other video formats if needed (e.g., WebM, Ogg) -->
             Your browser does not support the video tag.
         </video>
-        <p style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-family: 'Arial', sans-serif; font-size: 12px; max-width: 300px; font-style: italic;">Over 150 mobile robot agents, or as we call them, 'Jonny bots,' welcome you to this page</p>
+        <p style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-family: 'Arial', sans-serif; font-size: 12px; max-width: 300px; font-style: italic;">200 mobile robot agents, or as we call them, 'Jonny bots' welcome you to this page</p>
     </div>
 </div>
 
 
 
 
-Hey there, I'm Ayaz Ahmed, an aerospace engineer who loves tinkering with cool gadgets and software in the world of controls, robotics, and autonomous systems. I graduated with a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. For more than five years, I've been working at the Vikram Sarabhai Space Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++, and Julia to figure out how things fly in space. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
+Hey there, I'm Ayaz, an aerospace engineer who loves tinkering with cool gadgets and software in the world of controls, robotics, and autonomous systems. I am pursuing a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. For more than five years, I worked at the Vikram Sarabhai Space Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++, and Julia to figure out how things fly in space. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
 
 <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/Resume_Ayaz_Website.pdf" target="_blank">CV</a>.</p>
 

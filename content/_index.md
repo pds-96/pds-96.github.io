@@ -73,7 +73,7 @@ sections:
               Responsibilities include:
 
               * Analysing
-              * Modelling
+              * Modeling
               * Deploying
         - title: Scientist/Engineer - SC
           company: Vikram Saranbhai Space Centre, Indian Space Research Organisation
@@ -86,7 +86,7 @@ sections:
               Responsibilities include:
 
               * Analysing
-              * Modelling
+              * Modeling
               * Deploying
     design:
       columns: '2'
