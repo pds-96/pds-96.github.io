@@ -93,7 +93,7 @@ highlight_name: true
 <div style="text-align: center;">
     <div style="position: relative; display: inline-block;">
         <img src="/uploads/hi.gif" alt="Description of the GIF" width="400" height="300" style="display: block; margin: 0 auto;">
-        <p style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-family: 'Arial', sans-serif; font-size: 14px; max-width: 300px;">Look here, over 150 mobile robot agents, as we call them Jonny bots coming together, without collision constraint, to welcome you to this page</p>
+        <p style="position: absolute; bottom: 0; left: 10%; transform: translateX(-10%); font-family: 'Arial', sans-serif; font-size: 14px; max-width: 300px;">Look here, over 150 mobile robot agents, as we call them Jonny bots coming together, to welcome you to this page</p>
     </div>
 </div>
 
