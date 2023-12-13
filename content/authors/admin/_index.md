@@ -45,12 +45,17 @@ skills:
   - name: Analysis Packages and Coding Languages
     items:
       - name: Python, MATLAB, Simulink, C++, Julia
+        percentage: 0
       - name: Solidworks, CATIA, AutoCAD, Fusion360
       - name: Adams, ANSYS, Fluent
   - name: Hands-On
     items:
       - name: LabVIEW, Arduino, Raspberry Pi, Pixhawk, Microcontrollers
       - name: 3D printing, Rapid Prototyping, Machining
+
+  - name: Design, Analysis and Development
+    items:
+      - name:
 
 
 # Social/Academic Networking
