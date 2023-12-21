@@ -70,11 +70,14 @@ sections:
           date_start: '2022-07-01'
           date_end: '2023-08-31'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modeling
-              * Deploying
+              Technoloy development engineer and Experimental aerodynamicist working in 1m Shock tunnel facility of Satish Dhawan Wind Tunnel Complex.
+              Major accomplishments:
+              * Designed test setups, using numerical modeling and optimization for aerodynamics characterization of flight vehicles.
+              * Processed and analyzed large data sets from more than 1000 experimental tests, in Python and MATLAB. 
+              * Collaborated with a team of researchers from national and international research organizations, in generation of comprehensive experimental data for flight vehicle over Mach 4 crucial for informed decisions on Trajectory planning.
+              * 3D printed a TPU-based flexible test article for 50 meters drop tests, to protect internal electronics. 
+              * Installed Pixhawk-based inertial measurement units, along with storage, and power units for data acquisition.
+              
         - title: Scientist/Engineer - SC
           company: Vikram Saranbhai Space Centre, Indian Space Research Organisation
           company_url: 'https://www.vssc.gov.in/'
@@ -83,13 +86,32 @@ sections:
           date_start: '2018-08-29'
           date_end: '2022-06-30'
           description: |2-
-              Responsibilities include:
+              Major Accomplishments:
+              * Collaborated on a spacecraft orbit propagation software tool in C++ with less than 30m/day error growth by simulating perturbations from multiple sources with adaptive time stepping integration.
+              * Integrated CSPICE package for planetary ephemeris, increasing accuracy to over 99.9% as compared to NASA’s GMAT.
+              * Collaborated with a cross-functional team in realization of a Mach 6-capable Dynamic Damping test setup.
+              * Validated system performance, by reproducing result from open literature with over 99% accuracy in damping data.
+              * Delivered a vision-based attitude measurement software package in Python with resolution <0.05 deg.
+              * Designed and implemented a pneumatic actuator and control system, enabling angular excitation up to 30 deg. 
 
-              * Analysing
-              * Modeling
-              * Deploying
+        - title: Undergraduate Intern
+          company: APLD Lab
+          company_url: 'https://www.iist.ac.in/departments/aerospace-lab#1'
+          company_logo: iist2
+          location: Thiruvananthapuram
+          date_start: '2018-01-01'
+          date_end: '2018-04-30'
+          description: |2-
+              Topic –“Strut based injection strategies for Scramjet with emphasis on impinging jet”
+
+              Performed experimental investigations on the effect of impinging jets on the mixing behavior. Carried out experiments in Mach 1.7 Open Jet facility at Advanced Propulsion and Laser Diagnostics lab at IIST. 
+
+              * Designed and fabricated strut with different impingement angles using Solidworks.
+              * Devised a scheme for optimum seeding required to achieve efficient Mie scattering.
+              * Programmed a LabView code to run the open jet facility, taking into consideration valve operations, camera trigger, laser trigger and secondary flow injection.
+              * Developed an image processing based MATLAB code for calculation of mixing area using the Mie scattering images and further post processing of the data.
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -103,62 +125,62 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=887d53e4-86d2-4310-bede-6aac6172a039&
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-09-26'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: mathworks
+          organization: MathWorks
+          organization_url: https://matlabacademy.mathworks.com/
+          title: Simulink Onramp
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4796efec-233c-426f-a54d-02993ceecd7d&
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-09-25'
+          description: 
+          icon: matlab
+          organization: MathWorks
+          organization_url: https://matlabacademy.mathworks.com/
+          title: MATLAB Onramp
+          url: 
+        - certificate_url: https://www.udemy.com/certificate/UC-c157f30d-9b54-48b6-a5a0-31eb4fd27116/
+          date_end: ''
+          date_start: '2023-07-15'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: 'The Ultimate LabView 2020 Course'
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+ # - block: collection
+ #   id: posts
+ #   content:
+ #     title: Recent Posts
+ #     subtitle: ''
+ #     text: ''
+ #     # Choose how many pages you would like to display (0 = all pages)
+ #     count: 5
+ #     # Filter on criteria
+ #     filters:
+ #       folders:
+ #         - post
+ #       author: ""
+ #       category: ""
+ #       tag: ""
+ #       exclude_featured: false
+ #       exclude_future: false
+ #       exclude_past: false
+ #       publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+ #     offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+ #     order: desc
+ #   design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+ #     view: compact
+ #     columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -176,35 +198,39 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Motion Planning
+          tag: Motion Planning
+        - name: Simulation and Modelling
+          tag: Simulation and Modelling
+        - name: Robotics and Mechatronics
+          tag: Robotics and Mechatronics
+        - name: Others
+          tag: others
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  #- block: markdown
+  #  content:
+  #    title: Gallery
+  #    subtitle: ''
+  #    text: |-
+  #      {{< gallery album="demo" >}}
+  #  design:
+  #    columns: '1'
+  #- block: collection
+  #  id: featured
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: card
   - block: collection
     content:
       title: Recent Publications
@@ -219,21 +245,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: collection
+    #id: talks
+    #content:
+     # title: Recent & Upcoming Talks
+      #filters:
+       # folders:
+        #  - event
+    #design:
+    #  columns: '2'
+    #  view: compact
+  #- block: tag_cloud
+  #  content:
+   #   title: Popular Topics
+    #design:
+     # columns: '2'
   - block: contact
     id: contact
     content:
