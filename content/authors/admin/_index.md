@@ -51,6 +51,7 @@ skills:
       - name: Adams, ANSYS, Fluent
   - name: Hands-On
     items:
+      - name: Robot Operating System (ROS), Gazebo
       - name: LabVIEW, Arduino, Raspberry Pi, Pixhawk, Microcontrollers
       - name: 3D printing, Rapid Prototyping, Machining
 
