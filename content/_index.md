@@ -70,7 +70,7 @@ sections:
           date_start: '2022-07-01'
           date_end: '2023-08-31'
           description: |2-
-              Technoloy development engineer
+              Technoloy development engineer\
               Major accomplishments:
               * Collaborated on a spacecraft orbit propagation software tool in C++ with less than 30m/day error growth by simulating perturbations from multiple sources with adaptive time stepping integration.
               * Integrated CSPICE package for planetary ephemeris, increasing accuracy to over 99.9% as compared to NASA’s GMAT.
@@ -88,7 +88,7 @@ sections:
           date_start: '2018-08-29'
           date_end: '2022-06-30'
           description: |2-
-              Technoloy development engineer
+              Technoloy development engineer\
               Major Accomplishments:
               * Designed test setups, using numerical modeling and optimization for aerodynamics characterization of flight vehicles.
               * Processed and analyzed large data sets from more than 1000 experimental tests, in Python and MATLAB. 
