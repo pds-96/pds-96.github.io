@@ -70,13 +70,15 @@ sections:
           date_start: '2022-07-01'
           date_end: '2023-08-31'
           description: |2-
-              Technoloy development engineer and Experimental aerodynamicist working in 1m Shock tunnel facility of Satish Dhawan Wind Tunnel Complex.
+              Technoloy development engineer
               Major accomplishments:
-              * Designed test setups, using numerical modeling and optimization for aerodynamics characterization of flight vehicles.
-              * Processed and analyzed large data sets from more than 1000 experimental tests, in Python and MATLAB. 
-              * Collaborated with a team of researchers from national and international research organizations, in generation of comprehensive experimental data for flight vehicle over Mach 4 crucial for informed decisions on Trajectory planning.
-              * 3D printed a TPU-based flexible test article for 50 meters drop tests, to protect internal electronics. 
-              * Installed Pixhawk-based inertial measurement units, along with storage, and power units for data acquisition.
+              * Collaborated on a spacecraft orbit propagation software tool in C++ with less than 30m/day error growth by simulating perturbations from multiple sources with adaptive time stepping integration.
+              * Integrated CSPICE package for planetary ephemeris, increasing accuracy to over 99.9% as compared to NASA’s GMAT.
+              * Collaborated with a cross-functional team in realization of a Mach 6-capable Dynamic Damping test setup.
+              * Designed and implemented a pneumatic actuator and control system, enabling angular excitation up to 30 deg.
+              * Validated system performance, by reproducing result from open literature with over 99% accuracy in damping data.
+              * Organized team meetings for brainstorming and troubleshooting; conveyed requirements to fellow system managers.
+              * Delivered a vision-based attitude measurement software package in Python with resolution <0.05 deg.
               
         - title: Scientist/Engineer - SC
           company: Vikram Saranbhai Space Centre, Indian Space Research Organisation
@@ -86,13 +88,13 @@ sections:
           date_start: '2018-08-29'
           date_end: '2022-06-30'
           description: |2-
+              Technoloy development engineer
               Major Accomplishments:
-              * Collaborated on a spacecraft orbit propagation software tool in C++ with less than 30m/day error growth by simulating perturbations from multiple sources with adaptive time stepping integration.
-              * Integrated CSPICE package for planetary ephemeris, increasing accuracy to over 99.9% as compared to NASA’s GMAT.
-              * Collaborated with a cross-functional team in realization of a Mach 6-capable Dynamic Damping test setup.
-              * Validated system performance, by reproducing result from open literature with over 99% accuracy in damping data.
-              * Delivered a vision-based attitude measurement software package in Python with resolution <0.05 deg.
-              * Designed and implemented a pneumatic actuator and control system, enabling angular excitation up to 30 deg. 
+              * Designed test setups, using numerical modeling and optimization for aerodynamics characterization of flight vehicles.
+              * Processed and analyzed large data sets from more than 1000 experimental tests, in Python and MATLAB. 
+              * Collaborated with a team of researchers from national and international research organizations, in generation of comprehensive experimental data for flight vehicle over Mach 4 crucial for informed decisions on Trajectory planning.
+              * 3D printed a TPU-based flexible test article for 50 meters drop tests, to protect internal electronics. 
+              * Installed Pixhawk-based inertial measurement units, along with storage, and power units for data acquisition.
 
         - title: Undergraduate Intern
           company: APLD Lab
