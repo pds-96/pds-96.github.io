@@ -74,7 +74,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ayaz@uw.edu'
+    link: 'mailto:ayaz@uw.edu'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=a18Av5QAAAAJ&hl=en

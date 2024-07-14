@@ -14,8 +14,8 @@ image:
   focal_point: 
 
 url_code: 
-url_pdf: 'uploads/fsim.pdf'
-url_slides: 'uploads/fsim.pptx'
+url_pdf: ''
+url_slides: ''
 url_video: 
 
 # Slides (optional).
