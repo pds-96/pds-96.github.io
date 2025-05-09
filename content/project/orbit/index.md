@@ -2,7 +2,7 @@
 title: Prediction of Long Term Evolution of Satellite Orbit
 summary: Collaborated on development of a software tool designed to perform long-duration spacecraft orbit propagation. My role included implementing an adaptive integration scheme to control error growth and incorporating perturbations like non-spherical Earth gravity, third-body effects, atmospheric drag, and solar radiation pressure. I interfaced the tool with JPL ephemerides using the ‘CSPICE’ package to integrate planetary and lunar state vector data. This project was successfully validated against NASA’s GMAT program, showcasing my expertise in aerospace software development and validation.
 tags:
-  - Simulation and Modelling
+  - Business
 date: '2019-01-01'
 
 # Optional external URL for project (replaces project detail page).

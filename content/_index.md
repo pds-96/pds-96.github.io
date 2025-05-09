@@ -42,14 +42,7 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  
   - block: experience
     content:
       title: Experience
@@ -62,100 +55,102 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Scientist/Engineer - SD
-          company: Vikram Saranbhai Space Centre, Indian Space Research Organisation
-          company_url: 'https://www.vssc.gov.in/'
-          company_logo: isro
-          location: Thiruvananthapuram
-          date_start: '2022-07-01'
-          date_end: '2023-08-31'
+        - title: Global Engagement Manager
+          company: HCLTech
+          company_url: 'https://www.hcltech.com/'
+          company_logo: HCLTech.svg
+          location: Delhi NCR
+          date_start: '2024-06-13'
+          date_end: ''
           description: |2-
-              Technoloy development engineer\
+              Program & Bid Manager\
               Major accomplishments:
-              * Collaborated on a spacecraft orbit propagation software tool in C++ with less than 30m/day error growth by simulating perturbations from multiple sources with adaptive time stepping integration.
-              * Integrated CSPICE package for planetary ephemeris, increasing accuracy to over 99.9% as compared to NASA’s GMAT.
-              * Collaborated with a cross-functional team in realization of a Mach 6-capable Dynamic Damping test setup.
-              * Designed and implemented a pneumatic actuator and control system, enabling angular excitation up to 30 deg.
-              * Validated system performance, by reproducing result from open literature with over 99% accuracy in damping data.
-              * Organized team meetings for brainstorming and troubleshooting; conveyed requirements to fellow system managers.
-              * Delivered a vision-based attitude measurement software package in Python with resolution <0.05 deg.
-              
-        - title: Scientist/Engineer - SC
-          company: Vikram Saranbhai Space Centre, Indian Space Research Organisation
-          company_url: 'https://www.vssc.gov.in/'
+              * Secured a 40%-win rate on 4+ RFP/RFIs (averaging $60M+) by collaborating with technical, service delivery, finance and procurement team.
+              * Engineered end-to-end IT infrastructure solution with focus on agile operating model for a managed services deal in retail industry, delivering ~30% cost savings to client.
+              * Developing and implementing GTM strategies for Agentic AI and GenAI offerings, including client-facing pitches and demos during bid pursuits.
+
+
+        - title: Project Manager - SpaDEx (Space Docking Experiement)
+          company: U R Rao Satellice Centre, Indian Space Research Organisation
+          company_url: 'https://www.ursc.gov.in/'
           company_logo: isro
-          location: Thiruvananthapuram
-          date_start: '2018-08-29'
-          date_end: '2022-06-30'
+          location: Bengaluru
+          date_start: '2020-09-01'
+          date_end: '2022-06-21'
           description: |2-
-              Technoloy development engineer\
-              Major Accomplishments:
-              * Designed test setups, using numerical modeling and optimization for aerodynamics characterization of flight vehicles.
-              * Processed and analyzed large data sets from more than 1000 experimental tests, in Python and MATLAB. 
-              * Collaborated with a team of researchers from national and international research organizations, in generation of comprehensive experimental data for flight vehicle over Mach 4 crucial for informed decisions on Trajectory planning.
-              * 3D printed a TPU-based flexible test article for 50 meters drop tests, to protect internal electronics. 
-              * Installed Pixhawk-based inertial measurement units, along with storage, and power units for data acquisition.
+              Mission Planning and Operations Manager\
+              Major accomplishments:
+              * Led a cross-functional team of 8+ engineers and coordinated with 10 teams across various ISRO centers, streamlining communications and cataloging requirements to ensure the on-time delivery of mission objectives.
+              * Developed and managed the mission timeline, overseeing docking sequence planning, post-docking operations, and contingency scenarios to ensure mission success.
+              * Implemented risk mitigation strategies, identifying and resolving critical spacecraft navigation and control challenges to improve docking reliability.
+              * Developed an algorithm for satellite navigation, achieving a 30% increase in spacecraft imaging capacity by collaborating closely with the engineering team to integrate and verify the proposal.
+              * Optimized ground station communication workflows, enhancing real-time mission monitoring and reducing telemetry data processing time by 20%.
+
+        - title: Scientist/Engineer - SC
+          company: U R Rao Satellice Centre, Indian Space Research Organisation
+          company_url: 'https://www.ursc.gov.in/'
+          company_logo: isro
+          location: Bengaluru
+          date_start: '2018-08-28'
+          date_end: '2020-08-30'
+          description: |2-
+              Mission Planning and Operations Engineer\
+              Project - Chandrayaan-2:
+              * Designed fuel-efficient orbital strategies, achieving 3% propellant savings in lunar mission planning resulting in enhanced mission life.
+              * Collaborated with the JPL and ISRO flight teams to develop the space segment plan and perform deep space orbit determination, integrating efforts to enhance mission accuracy and reliability.
+              * Managed launch-phase control room operations and calibration tasks, liaising with over 10 subsystems and teams across ISRO.
+
+              Project - RISAT-2B Constellation:
+              * Led end-to-end mission operations for a constellation of SAR imaging satellites, ensuring precise orbit insertion, payload calibration, and system health monitoring. 
+              * Managed 40+ critical mission events, including launch sequencing, orbit maintenance maneuvers, and contingency recoveries, ensuring uninterrupted satellite operations.
+              * Optimized payload performance, executing advanced on-orbit calibrations that improved imaging accuracy by 13%.
+              * Led cross-functional teams across satellite systems, ground operations, and flight dynamics to ensure seamless coordination during launch and early orbit phases.
+              * Conducted contingency planning and full-dress rehearsals, preparing for mission anomalies and ensuring rapid response capabilities. Supported the smooth execution of all planned operations during launch phase and on-orbit phase.
+
+              Research:
+              * Co-authored research on enhanced gyro calibration, improving RISAT-2B’s imaging accuracy and operational stability.
+              * Developed an AI-driven algorithm for SAR & optical payload imaging grid generation, enhancing satellite targeting precision. 
+
+              Recognition: 
+              * Rated as Outstanding Scientist across 3 years with highest performance rating.
+
+
+
+        - title: Postgraduate Intern (ELITE General Management Program)
+          company: Capgemini
+          company_url: 'https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/management-graduates/elite-general-management-program/'
+          company_logo: Capgemini
+          location: 
+          date_start: '2023-04-02'
+          date_end: '2023-06-03'
+          description: |2-
+              Topic –“Natural and Forced Characteristics of Circular and Electric Jet Diffusion Flames"
+
+              Conducted experimental study on natural and acoustically excited circular and elliptic jet diffusion flames using high-speed schlieren flow visualization. Analyzed flame response through time series data extraction, including Fast Fourier Transform, Spectrogram, and Dynamic Mode Decomposition. Investigated hydrodynamic instability and forcing response of flames, observing various dynamic states such as period-2 oscillations and mode locking. Identified scaling relationship between Strouhal and Froude numbers using minor diameter as characteristic length.
+
+              * Designed and fabricated the flame chamber & experimental setup using Solidworks.
+              * Programmed a LabView code to run the  facility, taking into consideration valve operations, camera trigger and acoustic distubance trigger.
+              * Developed an image processing based MATLAB code for extraction of dynamic modes of flame from schlieren images and further post processing of the data.
 
         - title: Undergraduate Intern
-          company: APLD Lab
-          company_url: 'https://www.iist.ac.in/departments/aerospace-lab#1'
+          company: Flame Diagnostics Lab, IIST
+          company_url: 'https://www.iist.ac.in/departments/aerospace-lab#14'
           company_logo: iist2
           location: Thiruvananthapuram
           date_start: '2018-01-01'
           date_end: '2018-04-30'
           description: |2-
-              Topic –“Strut based injection strategies for Scramjet with emphasis on impinging jet”
+              Topic –“Natural and Forced Characteristics of Circular and Electric Jet Diffusion Flames"
 
-              Performed experimental investigations on the effect of impinging jets on the mixing behavior. Carried out experiments in Mach 1.7 Open Jet facility at Advanced Propulsion and Laser Diagnostics lab at IIST. 
+              Conducted experimental study on natural and acoustically excited circular and elliptic jet diffusion flames using high-speed schlieren flow visualization. Analyzed flame response through time series data extraction, including Fast Fourier Transform, Spectrogram, and Dynamic Mode Decomposition. Investigated hydrodynamic instability and forcing response of flames, observing various dynamic states such as period-2 oscillations and mode locking. Identified scaling relationship between Strouhal and Froude numbers using minor diameter as characteristic length.
 
-              * Designed and fabricated strut with different impingement angles using Solidworks.
-              * Devised a scheme for optimum seeding required to achieve efficient Mie scattering.
-              * Programmed a LabView code to run the open jet facility, taking into consideration valve operations, camera trigger, laser trigger and secondary flow injection.
-              * Developed an image processing based MATLAB code for calculation of mixing area using the Mie scattering images and further post processing of the data.
+              * Designed and fabricated the flame chamber & experimental setup using Solidworks.
+              * Programmed a LabView code to run the  facility, taking into consideration valve operations, camera trigger and acoustic distubance trigger.
+              * Developed an image processing based MATLAB code for extraction of dynamic modes of flame from schlieren images and further post processing of the data.
+          
     design:
       columns: '1'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=887d53e4-86d2-4310-bede-6aac6172a039&
-          date_end: ''
-          date_start: '2023-09-26'
-          description: ''
-          icon: mathworks
-          organization: MathWorks
-          organization_url: https://matlabacademy.mathworks.com/
-          title: Simulink Onramp
-          url: ''
-        - certificate_url: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4796efec-233c-426f-a54d-02993ceecd7d&
-          date_end: ''
-          date_start: '2023-09-25'
-          description: 
-          icon: matlab
-          organization: MathWorks
-          organization_url: https://matlabacademy.mathworks.com/
-          title: MATLAB Onramp
-          url: 
-        - certificate_url: https://www.udemy.com/certificate/UC-c157f30d-9b54-48b6-a5a0-31eb4fd27116/
-          date_end: ''
-          date_start: '2023-07-15'
-          description: ''
-          icon: udemy
-          organization: Udemy
-          organization_url: https://www.udemy.com/
-          title: 'The Ultimate LabView 2020 Course'
-          url: ''
-    design:
-      columns: '2'
+  
  # - block: collection
  #   id: posts
  #   content:
@@ -200,14 +195,15 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Motion Planning
-          tag: Motion Planning
-        - name: Simulation and Modelling
-          tag: Simulation and Modelling
-        - name: Robotics and Mechatronics
-          tag: Robotics and Mechatronics
-        - name: Others
-          tag: others
+        - name: Business Case Competition
+          tag: Business
+        - name: Graduation - Technical
+          tag: Technical
+        - name: Social Work
+          tag: Social
+        - name: Others - Fun Projects
+          tag: Fun
+       
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -262,6 +258,49 @@ sections:
    #   title: Popular Topics
     #design:
      # columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Certificates'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/2XKR36SL5LJP
+          date_end: ''
+          date_start: '2023-10-05'
+          description: ''
+          icon: coursera
+          organization: coursera
+          organization_url: https://www.coursera.org/learn/prompt-engineering
+          title: Prompt Engineering
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2014-06-01'
+          description: 
+          icon: CBSE
+          organization: CBSE
+          organization_url: https://matlabacademy.mathworks.com/
+          title: JEE Mains AIR 1241, State Rank 89
+          url: 
+      
+    design:
+      columns: '2'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+
   - block: contact
     id: contact
     content:
@@ -270,18 +309,18 @@ sections:
       text: |-
         Contact for Ideas and Suggestions
       # Contact (add or remove contact options as necessary)
-      email: ayaz@uw.edu
+      email: devvratchahar96@gmail.com
       address:
-        street: 3940 Benton Ln NE
-        city: Seattle
-        region: WA
-        postcode: '98105'
-        country: United States
+        street: Sector 76
+        city: Noida
+        region: Uttar Pradesh
+        postcode: '201304'
+        country: India
         country_code: US
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '47.65423173366872' 
-        longitude: '-122.30653795423818'  
+        latitude: '28.56491646426212' 
+        longitude: '77.3848173966966'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -293,5 +332,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '1'
 ---

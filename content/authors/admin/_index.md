@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ayaz Ahmed
+title: Priy Devvrat Singh
 
 # Full name (for SEO)
-first_name: Ayaz
-last_name: Ahmed
+first_name: Priy Devvrat
+last_name: Singh
 
 # Status emoji
 status:
@@ -14,40 +14,40 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Global Engagement Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: William E. Boeing Department of Aeronautics and Astronautics, University of Washington
-    url: https://www.aa.washington.edu/
+  - name: HCLTech
+    url: https://www.hcltech.com/careers/global-engagement-management-program
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include control of autonomous systems, robotics, Mechatronics, Numerical Modeling and Simulation.
+bio: TO BE UPDATED - My research interests include control of autonomous systems, robotics, Mechatronics, Numerical Modeling and Simulation.
 
 # Interests to show in About widget
-interests:
+/* interests:
   - Motion Planning
   - Control and Autonomous Systems
   - Robotics and Mechatronics
-  - Numerical Modeling and Simulation
+  - Numerical Modeling and Simulation */
 
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Aeronautics and Astronautics (Controls)
-      institution: University of Washington
-      year: 2025 (Expected)
-    - course: B.Tech in Aerospace Engineering
+    - course: Post Graduate Diploma in Business Management (Institute Rank - 3, Dean's Merit List)
+      institution: XLRI Jamshedpur
+      year: 2024
+    - course: B.Tech in Aerospace Engineering (Department Rank - 3)
       institution: Indian Institute of Space Science and Technology
       year: 2018
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 
-skills:
+/* skills:
   - name: Analysis Packages and Coding Languages
     items:
-      - name: Python, MATLAB, Simulink, C++, Julia
-      - name: Solidworks, CATIA, AutoCAD, Fusion360
+      - name: Python, MATLAB, Simulink, C++
+      - name: Solidworks, CATIA, AutoCAD
       - name: Adams, ANSYS, Fluent
   - name: Hands-On
     items:
@@ -64,7 +64,7 @@ skills:
   - name: Documentation
     items:
       - name: Microsoft Office Suite
-      - name: LaTeX
+      - name: LaTeX */
 
 
 # Social/Academic Networking
@@ -74,16 +74,19 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ayaz@uw.edu'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=a18Av5QAAAAJ&hl=en
+    link: 'mailto:devvratchahar96@gmail.com'
+  #- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+   # icon_pack: ai
+    #link: https://scholar.google.com/citations?user=a18Av5QAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/ayazaero
+    link: https://github.com/pds-96
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ayazaero/
+    link: https://www.linkedin.com/in/priy-devvrat-singh-652357102/
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/devvrat1996
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -106,8 +109,9 @@ highlight_name: true
 
 
 
-Hey there, I'm Ayaz, an aerospace engineer who loves tinkering with cool gadgets and software in the world of controls, robotics, and autonomous systems. I am pursuing a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. For more than five years, I worked at the Vikram Sarabhai Space Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++, and Julia to figure out how things fly in space. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
+TO BE UPDATED - -Hey there, I'm Devvrat, a generalist at the intersection of Business & Technology. I am pursuing a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. 
+For around 4 years, I worked at the U R Rao Satellite Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++ to ensure things fly the way they are intended to. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
 
-<i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/Resume_Ayaz_Website.pdf" target="_blank">CV</a>.</p>
+<i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/PriyDevvrat_Resume_April2025.pdf" target="_blank">resume</a>.</p>
 
 {style="text-align: justify;"}
