@@ -46,15 +46,9 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           path: ./public
-      - name: Override upload-artifact version
-        uses: actions/upload-artifact@v2
-      - name: Debug Actions
-        run: |
-          echo "Debugging actions..."
-          ls -la /tmp/hugo_cache_runner/
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
