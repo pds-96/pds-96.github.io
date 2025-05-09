@@ -1,16 +1,12 @@
 name: Deploy website to GitHub Pages
-# just a test comment
 env:
   WC_HUGO_VERSION: '0.125.1'
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -21,7 +17,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
@@ -29,7 +24,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -56,7 +50,6 @@ jobs:
         with:
           path: ./public
 
-  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
