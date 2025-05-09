@@ -33,7 +33,7 @@ jobs:
       - uses: actions/cache@v3
         with:
           path: /tmp/hugo_cache_runner/
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}-v3
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}-v4
           restore-keys: |
             ${{ runner.os }}-hugomod-
       - name: Setup Pages
@@ -49,6 +49,12 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
+      - name: Override upload-artifact version
+        uses: actions/upload-artifact@v2
+      - name: Debug Actions
+        run: |
+          echo "Debugging actions..."
+          ls -la /tmp/hugo_cache_runner/
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
