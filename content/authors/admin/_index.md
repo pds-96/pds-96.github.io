@@ -22,7 +22,7 @@ organizations:
     url: https://www.hcltech.com/careers/global-engagement-management-program
 
 # Short bio (displayed in user profile at end of posts)
-bio: TO BE UPDATED - My research interests include control of autonomous systems, robotics, Mechatronics, Numerical Modeling and Simulation.
+bio: TO BE UPDATED - My interests include intersection of Deeptech and Business/strategy. 
 
 # Interests to show in About widget
 /* interests:
@@ -43,28 +43,22 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 
-/* skills:
-  - name: Analysis Packages and Coding Languages
+skills:
+  - name: Program & Project Management
     items:
-      - name: Python, MATLAB, Simulink, C++
-      - name: Solidworks, CATIA, AutoCAD
-      - name: Adams, ANSYS, Fluent
-  - name: Hands-On
-    items:
-      - name: Robot Operating System (ROS), Gazebo
-      - name: LabVIEW, Arduino, Raspberry Pi, Pixhawk, Microcontrollers
-      - name: 3D printing, Rapid Prototyping, Machining
+      - name: Bid & Persuit Management
+      - name: Stakeholder Management
+      - name: Cross-functional collaboration
 
-  - name: Design, Analysis and Development
+  - name: Data Analytics
     items:
-      - name: Numerical Modeling and Simulation
-      - name: Robotics and Mechatronics
-      - name: Autonomous Control Systesm
-      - name: Experimental Aerodynamics
+      - name: PowerBI & Tableau
+      - name: Excel Modelling
+  
   - name: Documentation
     items:
       - name: Microsoft Office Suite
-      - name: LaTeX */
+      - name: LaTeX 
 
 
 # Social/Academic Networking
@@ -95,6 +89,7 @@ social:
 highlight_name: true
 ---
 
+
 <div style="text-align: center; padding: 0 10%;">
     <div style="position: relative; display: inline-block;">
         <video autoplay loop muted width="400" height="300" style="display: block; margin: 0 auto;">
@@ -109,8 +104,8 @@ highlight_name: true
 
 
 
-TO BE UPDATED - -Hey there, I'm Devvrat, a generalist at the intersection of Business & Technology. I am pursuing a Master's in Aeronautics and Astronautics from the University of Washington and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. 
-For around 4 years, I worked at the U R Rao Satellite Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++ to ensure things fly the way they are intended to. From analyzing spacecraft orbits to creating nifty models, I'm all about pushing the boundaries in aerospace tech and finding smart solutions with a bunch of awesome folks.
+TO BE UPDATED - -Hey there, I'm Devvrat, a generalist at the intersection of Business & Technology. I have completed my Master's in Business Management from the Xavier Institute of Management (XLRI) and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. 
+For around 4 years, I worked at the U R Rao Satellite Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++ to ensure satellites function the way they are intended to. From analyzing the emerging business trends to analyzing tech developments, I'm all about building a career,,,,,
 
 <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/PriyDevvrat_Resume_April2025.pdf" target="_blank">resume</a>.</p>
 

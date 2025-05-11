@@ -15,7 +15,7 @@ image:
 
 url_code: 
 url_pdf: ''
-url_slides: 'uploads/CulturalBacteria_XLRI_Final.pdf'
+url_slides: 'CulturalBacteria_XLRI_Final.pdf'
 url_video: 
 
 # Slides (optional).

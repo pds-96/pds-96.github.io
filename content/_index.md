@@ -120,33 +120,29 @@ sections:
           company: Capgemini
           company_url: 'https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/management-graduates/elite-general-management-program/'
           company_logo: Capgemini
-          location: 
+          location: Remote
           date_start: '2023-04-02'
           date_end: '2023-06-03'
           description: |2-
-              Topic –“Natural and Forced Characteristics of Circular and Electric Jet Diffusion Flames"
-
-              Conducted experimental study on natural and acoustically excited circular and elliptic jet diffusion flames using high-speed schlieren flow visualization. Analyzed flame response through time series data extraction, including Fast Fourier Transform, Spectrogram, and Dynamic Mode Decomposition. Investigated hydrodynamic instability and forcing response of flames, observing various dynamic states such as period-2 oscillations and mode locking. Identified scaling relationship between Strouhal and Froude numbers using minor diameter as characteristic length.
-
-              * Designed and fabricated the flame chamber & experimental setup using Solidworks.
-              * Programmed a LabView code to run the  facility, taking into consideration valve operations, camera trigger and acoustic distubance trigger.
-              * Developed an image processing based MATLAB code for extraction of dynamic modes of flame from schlieren images and further post processing of the data.
+              
 
         - title: Undergraduate Intern
           company: Flame Diagnostics Lab, IIST
           company_url: 'https://www.iist.ac.in/departments/aerospace-lab#14'
           company_logo: iist2
           location: Thiruvananthapuram
-          date_start: '2018-01-01'
-          date_end: '2018-04-30'
+          date_start: '2017-05-01'
+          date_end: '2017-07-01'
           description: |2-
-              Topic –“Natural and Forced Characteristics of Circular and Electric Jet Diffusion Flames"
+              Topic –“Modal Decomposition Analysis of Unsteady Flow Field"
 
-              Conducted experimental study on natural and acoustically excited circular and elliptic jet diffusion flames using high-speed schlieren flow visualization. Analyzed flame response through time series data extraction, including Fast Fourier Transform, Spectrogram, and Dynamic Mode Decomposition. Investigated hydrodynamic instability and forcing response of flames, observing various dynamic states such as period-2 oscillations and mode locking. Identified scaling relationship between Strouhal and Froude numbers using minor diameter as characteristic length.
+              Conducted a modal decomposition analysis of unsteady flow fields, focusing on the application of Proper Orthogonal Decomposition (POD) and Dynamic Mode Decomposition (DMD) techniques. Analyzed flow dynamics through decomposition of simulation data, extracting dominant modes and investigating their temporal characteristics. Applied a new criterion for DMD mode selection to improve the accuracy of flow field representation.
 
-              * Designed and fabricated the flame chamber & experimental setup using Solidworks.
-              * Programmed a LabView code to run the  facility, taking into consideration valve operations, camera trigger and acoustic distubance trigger.
-              * Developed an image processing based MATLAB code for extraction of dynamic modes of flame from schlieren images and further post processing of the data.
+              * Performed modal decomposition on 2D incompressible flow past circular and side-by-side cylinders using POD and DMD.
+              * Analyzed flow response using time-resolved simulation snapshots, including Fast Fourier Transform (FFT) analysis to validate dominant frequencies.
+              * Investigated flow dynamics in transient and saturated flow regions, observing phenomena such as vortex shedding and flip-flopping.
+              * Developed reduced-order approximations of the flow field using POD to represent complex dynamics with fewer modes. 
+              * Implemented a new criterion for DMD mode selection, evaluating its effectiveness in capturing dominant flow structures.
           
     design:
       columns: '1'
@@ -197,7 +193,7 @@ sections:
           tag: '*'
         - name: Business Case Competition
           tag: Business
-        - name: Graduation - Technical
+        - name: Undergrad - Technical
           tag: Technical
         - name: Social Work
           tag: Social
@@ -231,7 +227,7 @@ sections:
   #    view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Scientific Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

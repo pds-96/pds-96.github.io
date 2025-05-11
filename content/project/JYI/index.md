@@ -1,6 +1,6 @@
 ---
 title: Jamshedpur Young Innovators
-summary: In an initiative by the Ministry of Education, Jharkhand, MBA students from XLRI (Xavier School of Management) recently conducted a Digital Marketing workshop to empower the region's artistic schoolchildren. Aligning with the "Child Art Exhibition" held in Ranchi from November 3rd to 5th, the workshop was part of an event inaugurated by Chief Minister Mr. Hemant Soren, themed "Earning for Learning."
+summary: In an initiative by the Ministry of Education, Jharkhand, MBA students from XLRI (Xavier School of Management) conducted a Digital Marketing workshop to empower the region's artistic schoolchildren. Aligning with the "Child Art Exhibition" held in Ranchi from November 3rd to 5th, the workshop was part of an event inaugurated by Chief Minister Mr. Hemant Soren, themed "Earning for Learning."
 tags:
   - Social
 date: '2023-11-03'
