@@ -16,7 +16,7 @@ image:
 
 url_code: 
 url_pdf: 'uploads/FinalProjectThesis.pdf'
-url_slides: ''
+url_slides: 'uploads/FinalProjectPresentation_3May2018.pdf'
 url_video: 
 
 # Slides (optional).
