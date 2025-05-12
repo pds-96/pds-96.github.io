@@ -114,9 +114,7 @@ sections:
               Recognition: 
               * Rated as Outstanding Scientist across 3 years with highest performance rating.
 
-
-
-        - title: Postgraduate Intern (ELITE General Management Program)
+        - title: Summer Intern (ELITE General Management Program)
           company: Capgemini
           company_url: 'https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/management-graduates/elite-general-management-program/'
           company_logo: Capgemini
@@ -124,7 +122,9 @@ sections:
           date_start: '2023-04-02'
           date_end: '2023-06-03'
           description: |2-
-              
+               * Drafted Capgemini World Insurance Trendbook 2025 focusing on P&C insurance industry trends.
+              * Performed valuation benchmarking of 5 IT consulting peers across 8+ financial matrices.
+              * Developed 15+ value chain use cases for P&C insurance industry integrating capgemeini's capabilities.
 
         - title: Undergraduate Intern
           company: Flame Diagnostics Lab, IIST
@@ -193,9 +193,9 @@ sections:
           tag: '*'
         - name: Business Case Competition
           tag: Business
-        - name: Undergrad - Technical
+        - name: Technical
           tag: Technical
-        - name: Social Work
+        - name: Social Projects
           tag: Social
         - name: Others - Fun Projects
           tag: Fun

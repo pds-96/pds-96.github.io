@@ -22,7 +22,7 @@ organizations:
     url: https://www.hcltech.com/careers/global-engagement-management-program
 
 # Short bio (displayed in user profile at end of posts)
-bio: TO BE UPDATED - My interests include intersection of Deeptech and Business/strategy. 
+bio: My interests include intersection of Deeptech and Business/strategy. 
 
 # Interests to show in About widget
 /* interests:
@@ -106,6 +106,8 @@ highlight_name: true
 
 TO BE UPDATED - -Hey there, I'm Devvrat, a generalist at the intersection of Business & Technology. I have completed my Master's in Business Management from the Xavier Institute of Management (XLRI) and earned my stripes in Aerospace Engineering from the Indian Institute of Space Science and Technology. 
 For around 4 years, I worked at the U R Rao Satellite Centre, Indian Space Research Organization, where I've had a blast playing with MATLAB, Simulink, Python, C++ to ensure satellites function the way they are intended to. From analyzing the emerging business trends to analyzing tech developments, I'm all about building a career,,,,,
+
+I am currently a Bid & Program Manager at HCLtech where I lead proposal persuits for IT infrastructure services to Fortune 2000 companies in America and Europe region along with internal strategic growth initiatives aiming at bringing AI capabilities to the clients.
 
 <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/PriyDevvrat_Resume_April2025.pdf" target="_blank">resume</a>.</p>
 

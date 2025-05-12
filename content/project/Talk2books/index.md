@@ -3,6 +3,7 @@ title: Talk to Books
 summary: This vibe project was developed using gemini openAPIs and googlebooks API, with an idea to look for answers of "How to" question from the wisdom of what has already been published in various fiction and non-fiction books. Inspired from - https://books.google.com/talktobooks/
 tags:
   - Fun
+  - Vibe Coding
 date: '2025-03-20'
 
 # Optional external URL for project (replaces project detail page).
