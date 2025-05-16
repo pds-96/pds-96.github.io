@@ -46,7 +46,7 @@ education:
 skills:
   - name: Program & Project Management
     items:
-      - name: Bid & Persuit Management
+      - name: Bid & Pursuit Management
       - name: Stakeholder Management
       - name: Cross-functional collaboration
 
@@ -54,6 +54,8 @@ skills:
     items:
       - name: PowerBI & Tableau
       - name: Excel Modelling
+      - name: Python, R
+      - name: MATLAB
   
   - name: Documentation
     items:
@@ -89,9 +91,7 @@ social:
 highlight_name: true
 ---
 
-
-
-Hey there, I'm Devvrat, a former ISRO Scientist, pivotal in missions like SpaDEx and Chandrayaan-2, now excelling in the business sphere at HCLTech. Leveraging 4.5+ years of experience to secure major IT and AI solution deals (~$60M+ RFPs) and translate complex technical innovation into market success. An XLRI MBA (Top 3) graduate with a foundation in Aerospace Engineering (IIST).
+Hey there, I'm Devvrat, a former ISRO Scientist, pivotal in missions like SpaDEx and Chandrayaan-2, now excelling in the business sphere at HCLTech. Leveraging 4.5+ years of experience to secure major IT and AI solution deals (~$60M+ RFPs) and translate complex technical innovation into market success. My educational background includes a MBA from XLRI Jamshedpur (Rank 3) and an aerospace engineering degree from IIST.
 
 
 <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/PriyDevvrat_Resume_April2025.pdf" target="_blank">resume</a>.</p>

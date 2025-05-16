@@ -58,7 +58,7 @@ sections:
         - title: Global Engagement Manager
           company: HCLTech
           company_url: 'https://www.hcltech.com/'
-          company_logo: HCLTech.svg
+          company_logo: HCLTech-1
           location: Delhi NCR
           date_start: '2024-06-13'
           date_end: ''
@@ -67,7 +67,7 @@ sections:
               Major accomplishments:
               * Secured a 40%-win rate on 4+ RFP/RFIs (averaging $60M+) by collaborating with technical, service delivery, finance and procurement team.
               * Engineered end-to-end IT infrastructure solution with focus on agile operating model for a managed services deal in retail industry, delivering ~30% cost savings to client.
-              * Developing and implementing GTM strategies for Agentic AI and GenAI offerings, including client-facing pitches and demos during bid pursuits.
+              * Developed GTM strategies for Agentic AI and GenAI offerings, including client-facing pitches and demos during bid pursuits.
 
 
         - title: Project Manager - SpaDEx (Space Docking Experiement)
@@ -228,10 +228,10 @@ sections:
   - block: collection
     content:
       title: Scientific Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+       # {{% callout note %}}
+       # Quickly discover relevant content by [filtering publications](./publication/).
+       # {{% /callout %}}
       filters:
         folders:
           - publication
@@ -239,16 +239,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  #- block: collection
-    #id: talks
-    #content:
-     # title: Recent & Upcoming Talks
-      #filters:
-       # folders:
-        #  - event
-    #design:
-    #  columns: '2'
-    #  view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   #- block: tag_cloud
   #  content:
    #   title: Popular Topics
