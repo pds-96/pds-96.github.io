@@ -91,7 +91,14 @@ social:
 highlight_name: true
 ---
 
-Hey there, I'm Devvrat, a former ISRO Scientist, pivotal in missions like SpaDEx and Chandrayaan-2, now excelling in the business sphere at HCLTech. Leveraging 4.5+ years of experience to secure major IT and AI solution deals (~$60M+ RFPs) and translate complex technical innovation into market success. My educational background includes a MBA from XLRI Jamshedpur (Rank 3) and an aerospace engineering degree from IIST.
+
+## Welcome to my Space!
+
+I'm thrilled to have you here, exploring my creative journey and professional endeavors. This platform is a testament to my relentless pursuit of excellence and passion for innovation. I'm always adding new projects, so be sure to explore them!
+
+From designing satellites to decoding personal finance, and from business strategy to vibecoding , this portfolio showcases my diverse skillset. Whether you're a hiring manager, an engineering enthusiast, or a potential collaborator, I encourage you to explore and connect. Thank you for visiting!
+ 
+I'm Devvrat, a former ISRO Scientist, pivotal in missions like SpaDEx and Chandrayaan-2, now excelling in the business sphere at HCLTech. Leveraging 4.5+ years of experience to secure major IT and AI solution deals (~$60M+ RFPs) and translate complex technical innovation into market success. My educational background includes a MBA from XLRI Jamshedpur (Rank 3) and an aerospace engineering degree from IIST.
 
 
 <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/PriyDevvrat_Resume_April2025.pdf" target="_blank">resume</a>.</p>
