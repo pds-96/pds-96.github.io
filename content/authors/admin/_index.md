@@ -50,6 +50,12 @@ skills:
       - name: Stakeholder Management
       - name: Cross-functional collaboration
 
+  - name: Space Tech
+    items:
+      - name: Mission development
+      - name: LEOP & on-orbit operations
+      - name: Scientific computing & research
+
   - name: Data Analytics
     items:
       - name: PowerBI & Tableau

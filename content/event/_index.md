@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Reading List
 cms_exclude: true
 
 # View.
