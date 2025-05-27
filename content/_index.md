@@ -226,6 +226,7 @@ sections:
   #    columns: '2'
   #    view: card
   - block: collection
+    id: publications
     content:
       title: Scientific Publications
       # text: |-
@@ -239,16 +240,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: Books
-    content:
-      title: My Reading List
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   #- block: tag_cloud
   #  content:
    #   title: Popular Topics
@@ -296,6 +287,17 @@ sections:
       username: admin
     design:
       columns: '1'
+
+  - block: collection
+    id: Books
+    content:
+      title: My Reading List
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
 
   - block: contact
     id: contact
